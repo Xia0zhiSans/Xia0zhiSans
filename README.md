@@ -1,2 +1,1 @@
-# Xia0zhiSans
-Config files of my GitHub
+😆 hi, i'm not @XiaozhiSans
